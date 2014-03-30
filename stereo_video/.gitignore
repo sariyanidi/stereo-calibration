@@ -1,0 +1,5 @@
+*.o
+*.a
+*.pro.user
+Makefile
+StereoVideo
